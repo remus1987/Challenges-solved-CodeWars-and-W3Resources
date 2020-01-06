@@ -1,0 +1,10 @@
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\bin\Debug\netcoreapp2.1\PracticeInLab.deps.json
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\bin\Debug\netcoreapp2.1\PracticeInLab.runtimeconfig.json
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\bin\Debug\netcoreapp2.1\PracticeInLab.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\bin\Debug\netcoreapp2.1\PracticeInLab.dll
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\bin\Debug\netcoreapp2.1\PracticeInLab.pdb
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\obj\Debug\netcoreapp2.1\PracticeInLab.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\obj\Debug\netcoreapp2.1\PracticeInLab.AssemblyInfo.cs
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\obj\Debug\netcoreapp2.1\PracticeInLab.dll
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\obj\Debug\netcoreapp2.1\PracticeInLab.pdb
+C:\Users\Remus Iftimie\source\repos\PracticeInLab\obj\Debug\netcoreapp2.1\PracticeInLab.csprojAssemblyReference.cache
